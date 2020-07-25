@@ -11,5 +11,5 @@ if sys.argv[1] == "2":
 
 
 if sys.argv[1] == "3":
-    print(datetime.now().strftime('%A %B %d %Y %H:%M:%S %z'))
+    print(datetime.now().strftime('%A %B %d %Y %H:%M:%S'))
 
